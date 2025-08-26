@@ -1,1 +1,11 @@
-texto akmkldmwlkndjanwjkdnjakwnd
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
